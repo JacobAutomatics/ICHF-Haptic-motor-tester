@@ -1,0 +1,4 @@
+../Core/Src/AS5600.c:16:9:AS5600_Init	48	static
+../Core/Src/AS5600.c:48:6:AS5600_ReadAngle	40	static
+../Core/Src/AS5600.c:61:6:AS5600_UpdateTurns	24	static
+../Core/Src/AS5600.c:75:6:AS5600_CalculateSpeed	32	static
